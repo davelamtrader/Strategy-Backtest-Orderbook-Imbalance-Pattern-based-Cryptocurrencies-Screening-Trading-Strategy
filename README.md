@@ -1,5 +1,3 @@
-### Orderbook-Imbalance-Pattern-based-Cryptocurrencies-Screening-Trading-Strategy
-
 ## Overview
 
 This repository showcases a quantitative trading strategy designed to extract alpha by leveraging high-frequency market microstructure data, specifically order book information, to generate actionable low-frequency trading signals. The strategy focuses on identifying periods of significant order book imbalance and correlating them with price movements to predict potential market direction, particularly within the cryptocurrency markets.
